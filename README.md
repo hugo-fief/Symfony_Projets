@@ -4,7 +4,7 @@
 ## ***Développé par Hugo Fief***
 
 
-**COMMENCEMENT : **  
+**COMMENCEMENT :**  
 
 - Commencer par changer le **DATABASE_URL** du fichier .env à la racine du projet si besoin
 - Puis exécuter la commande **php bin/console doctrine:database:create** pour créer la base de donnée
